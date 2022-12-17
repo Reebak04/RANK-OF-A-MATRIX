@@ -24,7 +24,7 @@ The input from the user is stored in the variable a
 End of the program 
 
 ## Program:
-'''python
+```python
 #Program to find the rank of a matrix.
 #Developed by: Tejusve Kabeer.F
 #RegisterNumber:22002543
@@ -32,10 +32,10 @@ import numpy as np
 a=np.array([[3,2,5],[1,1,2],[3,3,6]])
 b=np.linalg.matrix_rank(a)
 print(b)
-'''
+```
 
 ## Output:
-![](./README.md)
+![](./rank.png)
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
